@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "C:/Program Files/Java/javafx-sdk-19/lib/**/*.jar",
+        "d:\\Downloads\\fxgl-17.3-uber.jar"
+    ]
+}
